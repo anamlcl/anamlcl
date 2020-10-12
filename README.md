@@ -17,9 +17,6 @@ The universe is the limit! To infinity and beyond! :rocket::sparkles:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=anamlcl&show_icons=true&hide=stars,issues&theme=material-palenight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamlcl&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/anamlcl/github-readme-stats)
-[![repos](https://github-readme-stats.vercel.app/api?username=anamlcl&repo=github-workshop-frontend-reprograma&show_icons=true&theme=material-palenight)](https://github.com/anamlcl/workshop-frontend-reprograma)
-
-
 
 
 ## My Tech Skills:
