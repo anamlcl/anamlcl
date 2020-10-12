@@ -15,13 +15,16 @@ The universe is the limit! To infinity and beyond! :rocket::sparkles:
 
 ## GitHub Stats & Most Used Languages:
 
-![Ana's github stats](https://github-readme-stats.vercel.app/api?username=anamlcl&show_icons=true&hide=stars,issues&theme=material-palenight)
+![github stats](https://github-readme-stats.vercel.app/api?username=anamlcl&show_icons=true&hide=stars,issues&theme=material-palenight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamlcl&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/anamlcl/github-readme-stats)
+[![repos](https://github-readme-stats.vercel.app/api?username=anamlcl&repo=github-workshop-frontend-reprograma&show_icons=true&theme=material-palenight)](https://github.com/anamlcl/workshop-frontend-reprograma)
+
+
 
 
 ## My Tech Skills:
 
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /><img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/wordpress%20-%2321759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
 
 
 
