@@ -15,8 +15,6 @@ The universe is the limit! To infinity and beyond! :rocket::sparkles:
 
 #### Languages & Tools:
 
-<code><img height="30" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/html5.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/css3.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/github.png"></code>
