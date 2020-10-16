@@ -14,7 +14,7 @@ The universe is the limit! To infinity and beyond! :rocket::sparkles:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamlcl&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/anamlcl/github-readme-stats)
 
 
-#### Languages & Tools:
+#### Tech Skills:
 
 <code><img height="30" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png"></code>
 <code><img height="30" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png"></code>
