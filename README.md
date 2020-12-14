@@ -12,16 +12,17 @@ The universe is the limit! To infinity and beyond! :rocket::sparkles:
 ![github stats](https://github-readme-stats.vercel.app/api?username=anamlcl&show_icons=true&hide=stars,issues&theme=material-palenight)
 
 
-
 ### Tech Skills:
 
-<code><img height="30" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png"></code>
-<code><img height="30" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"></code>
-<code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg"></code>
-<code><img height="30" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"></code>
+![html5-logo-1](https://user-images.githubusercontent.com/60146477/102089143-983a2d80-3dfa-11eb-88d1-f8efc233d825.png)
+![css-3-logo-1](https://user-images.githubusercontent.com/60146477/102089156-9bcdb480-3dfa-11eb-9d09-51a7c4ef835c.png)
+![1024px-Unofficial_JavaScript_logo_2 svg](https://user-images.githubusercontent.com/60146477/102089162-a0926880-3dfa-11eb-9ad6-23cc5be9d011.png)
+![react-logo](https://user-images.githubusercontent.com/60146477/102089176-a4be8600-3dfa-11eb-9317-1d323d0bb96f.png)
+![git-logo](https://user-images.githubusercontent.com/60146477/102089189-a9833a00-3dfa-11eb-90b1-fb4f34912836.png)
+![github-logo](https://user-images.githubusercontent.com/60146477/102089206-adaf5780-3dfa-11eb-8a19-112dd6ffe1a2.png)
+![visual-studio-code-logo-284BC24C39-seeklogo com](https://user-images.githubusercontent.com/60146477/102089227-b2740b80-3dfa-11eb-8457-e812b0c63b08.png)
+![wordpress-logo](https://user-images.githubusercontent.com/60146477/102089240-b738bf80-3dfa-11eb-8f7c-521c063c858a.png)
+
 
 
 
