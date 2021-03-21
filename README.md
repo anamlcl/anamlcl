@@ -2,8 +2,6 @@
 
 Biologist by love :mortar_board: but also passionate for technology! <3
 
-Currently studying front-end development :computer: :books: :coffee: 
-
 Always learning something new :seedling: and trying to bring some good changes to the world! :earth_americas::dart:
 
 The universe is the limit! To infinity and beyond! :rocket::sparkles: 
